@@ -1,16 +1,19 @@
-## Hi there 👋
+                       🌸 Bienvenue sur mon GitHub !
+                       
+Je m’appelle Ramata SISSOKO, future développeuse d’applications, curieuse, motivée, et passionnée par la tech 👩🏽‍💻.  
 
-<!--
-**Ramah409/Ramah409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aujourd’hui, je me forme au métier de Conceptrice Développeuse d’Applications (Bac+3) chez DesCodeuses.
 
-Here are some ideas to get you started:
+                      🌸Mon parcours avant la tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J’ai commencé par des stages et des contrats dans des services comme le commerce ou l’administration.
+ces expériences m’ont appris l’écoute, la rigueur et la polyvalence.
+
+Aujourd’hui, je transforme cette énergie en code pour créer des sites web fonctionnels, responsive et bien pensés.
+
+                     🌸 Ce que je recherche aujourd’hui
+
+Je suis actuellement à la recherche d’un stage de 6 mois à partir de septembre 2025 pour continuer à développer mes compétences, travailler sur des projets concrets et apprendre aux côtés de professionnels passionnés.
+
+Merci d’avoir pris le temps de visiter mon profil, au plaisir d’échanger avec vous ! 😊
+
