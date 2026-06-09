@@ -15,8 +15,8 @@ Je travaille principalement sur :
 
 ## Projets principaux
 
-* **Soramfr** — site e-commerce full stack
-* **Soramtfr** — création d’une boutique e-commerce pour une marque
+ — site e-commerce full stack
+— création d’une boutique e-commerce pour une marque
 * **Milliard Store** — interface e-commerce statique
 * **Trace** — plateforme de suivi professionnel en conception
 
